@@ -83,3 +83,59 @@
 // }
 // int a = Convert.ToInt32(Console.ReadLine());
 // Grade(a);
+
+// Task5
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] arr = new int[n];
+// int count = 0;
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// for (int i = 1; i < n; i++)
+// {
+//     if (arr[i] > arr[i - 1])
+//     {
+//         count++;
+//     }
+// }
+// Console.WriteLine(count);
+
+
+
+
+// Task6
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] arr = new int[n];
+// for (int i = 0; i < n; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+
+// for (int i = 0; i < n; i++)
+// {
+//     for (int j = 0; j < n; j++)
+//     {
+//         if (i != j && arr[i] == arr[j])
+//         {
+//             Console.Write(arr[i] + " ");
+//             break; 
+//         }
+//     }
+// }
+
+
+
+
+// Task7
+// int a = Convert.ToInt32(Console.ReadLine());
+// int b = Convert.ToInt32(Console.ReadLine());
+
+// for (int i = a; i <= b; i++)
+// {
+//     Console.WriteLine("-------------------------------");
+//     for (int j = 1; j <= 10; j++)
+//     {
+//         Console.WriteLine($"{i}x{j}= {i * j}");
+//     }
+// }

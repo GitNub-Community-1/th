@@ -84,6 +84,99 @@
 // int a = Convert.ToInt32(Console.ReadLine());
 // Grade(a);
 
+// Task3
+// int[] arr = new int[6];
+// int Negative = 0;
+// int Positive = 0;
+// int Zeros = 0;
+// int Even = 0;
+// int Odd = 0;
+// int Max = -99999;
+// int Min = 99999;
+// int Sum = 0; 
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] < 0)
+//     {
+//         Negative++;
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] >= 0)
+//     {
+//         Positive++;
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] == 0)
+//     {
+//         Zeros++;
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] % 2 == 0 && arr[i] != 0)
+//     {
+//         Even++;
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] % 2 != 0)
+//     {
+//         Odd++;
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] > Max)
+//     {
+//         Max = arr[i];
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (arr[i] < Min)
+//     {
+//         Min = arr[i];
+//     }
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     Sum += arr[i];
+// }
+// System.Console.WriteLine("Negative = " + Negative);
+// System.Console.WriteLine("Positive = " + Positive);
+// System.Console.WriteLine("Zeros = " + Zeros);
+// System.Console.WriteLine("Even = " + Even);
+// System.Console.WriteLine("Odd = " + Odd);
+// System.Console.WriteLine("Max = " + Max);
+// System.Console.WriteLine("Min = " + Min);
+// System.Console.WriteLine("Sum = " + Sum);
+
+
+
+// Task4
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] arr = new int[n];
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// for (int i = 0; i < arr.Length; i++)
+// {
+//     if (i % 2 == 0)
+//     {
+//     System.Console.Write(arr[i] + " ");
+//    }
+// }
+
 // Task5
 // int n = Convert.ToInt32(Console.ReadLine());
 // int[] arr = new int[n];

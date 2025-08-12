@@ -12,3 +12,4 @@ C:\Users\LLC LEADER\OneDrive\Рабочий стол\C# Course\consoleapp\homewo
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\C# Course\consoleapp\homework\obj\Debug\net9.0\homework.pdb
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\C# Course\consoleapp\homework\obj\Debug\net9.0\homework.genruntimeconfig.cache
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\C# Course\consoleapp\homework\obj\Debug\net9.0\ref\homework.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\C# Course\consoleapp\homework\obj\Debug\net9.0\homework.sourcelink.json
